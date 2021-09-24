@@ -7,7 +7,8 @@ To make the workshop, you are allowed to use C++, C# and LUA. The users will be 
 
 # Server Information
 
-Ubuntu 20.04
+Ubuntu 20.04 
+
 Document Root: /slabplanet/workshop/
 
 # Important Notice
