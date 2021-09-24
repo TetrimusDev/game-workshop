@@ -1,6 +1,8 @@
 # Slab Planet Workshop
 The official repository for the Workshop. Contributions can be made.
 
+The workshop is where users can make games and publish them to our platform for any user to play. It's a 3D Game Engine for the Massively Multiplayer Sandbox Game called Slab Planet.
+
 # Languages
 
 To make the workshop, you are allowed to use C++, C# and LUA. The users will be programming in Lua, so take note of that.
