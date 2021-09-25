@@ -17,4 +17,4 @@ You can expect an update on a vulnerability within 1-2 weeks of the vulnerabilit
 
 ## Activity
 
-Please stay a bit active on this repository. The more files, the more potential vulnerabilities and the more time it takes to fix them. You are also rewarded on the Discord Server for being active. YOu can also be rewarded for fixing bugs, contributing to the project in any way, etc.
+Please stay a bit active on this repository. The more files, the more potential vulnerabilities and the more time it takes to fix them. You are also rewarded on the Discord Server for being active. You can also be rewarded for fixing bugs, contributing to the project in any way, etc.
